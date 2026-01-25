@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/4xrhd" target="blank"><img src="https://img.shields.io/twitter/follow/4xrhd?logo=twitter&style=for-the-badge" alt="4xrhd" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Laravel / BlockChain**
 
-- 🌱 I’m currently learning **Docker,Kubernets,Python,GO**
+- 🌱 I’m currently learning **Solidity / Vyper**
 
-- 👨‍💻 All of my projects are available at [Hear](Hear)
+- 👨‍💻 All of my projects are available at [Hear]([Hear](https://4xrhd.rf.gd/projects))
 
-- 📝 I regularly write articles on [https://4xrhd.rf.gd](https://4xrhd.rf.gd)
+- 📝 I regularly write articles on [https://4xrhd.rf.gd](https://4xrhd.rf.gd/blogs/) [https://https://4xrhd.medium.com/](https://4xrhd.medium.com/) 
 
 - 📫 How to reach me **4xrhd@pm.me**
 
