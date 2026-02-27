@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammet Ezhar Eddin aka 4xrhd</h1>
+<h1 align="center">Hi 👋, I'm Kazi Md. Azhar Uddin Abeer aka 4xrhd</h1>
 <h3 align="center">A fervent cybersecurity aficionado with a keen interest in safeguarding digital landscapes. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4xrhd&label=Profile%20views&color=0e75b6&style=flat" alt="4xrhd" /> </p>
