@@ -1,134 +1,105 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗██████╗ ██╗  ██╗██████╗ 
-██╔════╝╚██╗██╔╝██╔══██╗██║  ██║██╔══██╗
-█████╗   ╚███╔╝ ██████╔╝███████║██████╔╝
-██╔══╝   ██╔██╗ ██╔══██╗╚════██║██╔══██╗
-███████╗██╔╝ ██╗██║  ██║     ██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=160&section=header&text=Kazi%20Md.%20Azhar%20Uddin%20Abeer&fontSize=32&fontColor=ffffff&animation=twinkling" alt="Header" />
 
-```
-> SYSTEM: terminal_profile.exe
-> USER: 4xrhd
-> STATUS: ONLINE
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Full-Stack+%26+Blockchain+Developer;Building+secure+and+scalable+solutions" alt="Typing SVG" />
 
-[![Visits](https://visitcount.itsvg.in/api?id=4xrhd&label=VISITORS&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<br />
+
+<img src="https://github.com/4xrhd.png" width="120" height="120" alt="Profile picture" style="border-radius: 50%;" />
+
+<br /><br />
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=4xrhd&label=Profile%20Views&color=1f6feb&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
-```
-$ whoami
-```
+---
 
-```yaml
-[4xrhd@cyberspace ~]$ cat about.me
-{
-  name:     "Kazi Md. Azhar Uddin Abeer",
-  alias:    "4xrhd",
-  class:    "Cybersecurity Aficionado",
-  location: "Bangladesh",
-  status:   "always watching",
-  projects: "https://4xrhd.rf.gd"
-}
-```
+## About
 
-```
-$ cat ~/contacts
-```
+Hi, I'm **Kazi Md. Azhar Uddin Abeer** — also known as **4xrhd**.
+
+I'm a cybersecurity enthusiast and developer based in **Bangladesh**, focused on building secure applications, exploring blockchain technologies, and continuous learning across the full stack.
+
+| | |
+| :--- | :--- |
+| **Focus** | Cybersecurity, Web Development, Blockchain |
+| **Location** | Bangladesh |
+| **Portfolio** | [4xrhd.rf.gd](https://4xrhd.rf.gd) |
+| **GitHub** | [@4xrhd](https://github.com/4xrhd) |
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="https://twitter.com/4xrhd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" /></a>
-  <a href="https://fb.com/4xrhd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" /></a>
-  <a href="https://instagram.com/4xrhd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" /></a>
-  <a href="https://medium.com/@4xrhd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="35" width="35" /></a>
-  <a href="https://www.youtube.com/@4xrhd"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="35" /></a>
+  <a href="https://twitter.com/4xrhd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://fb.com/4xrhd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/4xrhd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://medium.com/@4xrhd"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.youtube.com/@4xrhd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-```
-$ ps aux | grep current
-```
+---
 
-```
-USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
-4xrhd        001  2.5  1.2  laravel  ?    Ssl  2026   1:23 /bin/blockchain
-4xrhd        002  1.8  0.9  solidity ?    S+   2026   0:45 /bin/learning
-4xrhd        003  0.5  0.3  vyper    ?    S    2026   0:12 /bin/hacking
-```
+## Tech Stack
 
-```
-$ ls -la /skills/
-```
+### Languages
 
 <p align="center">
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="42" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="42" /></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="42" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="42" /></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="42" /></a>
-  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="42" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="42" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="42" /></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42" /></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="42" /></a>
-  <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="42" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="42" /></a>
-  <a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="42" /></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="42" /></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="42" /></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" /></a>
-  <a href="https://soliditylang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" height="42" /></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Vyper-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Vyper" />
 </p>
 
-```
-$ ./github_stats.sh --display
-```
+### Frameworks & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-```
->>> FETCHING STATS...
-```
+<img src="https://github-readme-stats.vercel.app/api?username=4xrhd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=4xrhd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00CC00&icon_color=00FF00)](https://github.com/4xrhd)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4xrhd&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%" />
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=4xrhd&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://github.com/4xrhd)
+<br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=4xrhd&&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00CC00)](https://github.com/4xrhd)
-
-```
->>> DONE.
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xrhd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="60%" />
 
 </div>
 
-```
-$ echo "$MOTD"
-```
+---
 
 <div align="center">
 
-```
-_________________________________________
-< Securing bits & bytes, one commit at a time. >
------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer&fontSize=14&fontColor=8b949e&animation=twinkling" alt="Footer" />
 
-</div>
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FF00,003300&height=120&section=footer&fontColor=00FF00&reversal=true)](https://github.com/4xrhd)
-
-```
-[EOF]
-```
+*Securing bits and bytes, one commit at a time.*
 
 </div>
