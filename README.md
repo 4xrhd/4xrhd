@@ -85,15 +85,15 @@ I'm a cybersecurity enthusiast and developer based in **Bangladesh**, focused on
 <div align="center">
 
 <a href="https://github.com/4xrhd">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=4xrhd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=4xrhd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/4xrhd">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=4xrhd&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=4xrhd&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/4xrhd">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=4xrhd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=4xrhd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 </div>
